@@ -1,23 +1,21 @@
-# Welcome to GitHub Desktop!
-
-# IOT-project-tutorial IOT airquality project with BME680
-# Current Status
-# Sensors
+# IOT airquality project with BME680
+## H2 Current Status
+### H3 Sensors
     BME680
     
-# Actuators    
+### H3 Actuators    
   Buzzer
   
-# Network
+### H3 Network
   Wifi
   
-# Platforms
+### H3 Platforms
     Ubidots
     Adafruit
     
-# Dependencies and credits:
+### H3 Dependencies and credits:
 
-JotaTheBest, urequests.py
-robert-hh, bme680.py
-Ubidots transmission code inspired and extended from Ubidots tutorial found here
+JotaTheBest, [urequests.py]: https://github.com/jotathebest/micropython-lib/blob/master/urequests/urequests.py
+robert-hh, [bme680.py] : https://github.com/robert-hh/BME680-Micropython
+Ubidots transmission code from Ubidots tutorial found [here]: https://help.ubidots.com/en/articles/961994-connect-any-pycom-board-to-ubidots-using-wi-fi-over-http
 
